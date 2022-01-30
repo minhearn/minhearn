@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minh Vu
 - 👀 I’m student at Tokyo Institute of Technology
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently studying Reinforcement Learning
 
 
 <!---
